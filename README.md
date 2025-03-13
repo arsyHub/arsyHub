@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm Web Developer<br>🌐Javascript 
+💻 Web Developer<br>🌐Javascript 
 
 
 ## 🌐 Socials:
